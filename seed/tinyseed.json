@@ -1,0 +1,586 @@
+[
+  {
+    "type": "book",
+    "title": "The Silent Echo",
+    "sku": "P43725136",
+    "price": {
+      "amount": 24.6,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "Paperback",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "The Silent Echo",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "Hardcover",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "The Silent Echo",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "E-book",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "The Silent Echo",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "Audiobook",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "L'\u00e9cho Silencieux",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "fr",
+      "name": "French",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "Paperback",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "L'\u00e9cho Silencieux",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "fr",
+      "name": "French",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "Hardcover",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "L'\u00e9cho Silencieux",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "fr",
+      "name": "French",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "E-book",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  },
+  {
+    "type": "book",
+    "title": "L'\u00e9cho Silencieux",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Jane Doe",
+          "isni": "7533281772501360"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "John Smith",
+          "isni": "9248035347665221"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "Mary Johnson",
+          "isni": "2111028622670141"
+        }
+      ]
+    },
+    "language": {
+      "code": "fr",
+      "name": "French",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 375,
+    "dimensions": {
+      "height": 7.2,
+      "width": 6.0,
+      "depth": 1.2,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.6,
+      "unit": "lb"
+    },
+    "isbn": "4141449879722",
+    "format": "Audiobook",
+    "series": {
+      "name": "Echoes Series"
+    },
+    "classifications": {
+      "primary": [],
+      "secondary": ["Mystery", "Thriller", "Adult"]
+    },
+    "universes": ["Mystic World"],
+    "work": {
+      "name": "The Silent Echo",
+      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+    }
+  }
+]

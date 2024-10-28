@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/aef4a918-f4fc-4bb5-90f3-ff1c944cce47/resourceGroups/rg-graph-store-api-prod/providers/Microsoft.Web/sites/app-graph-store-api-prod",
+  "appService.deploySubpath": "."
+}

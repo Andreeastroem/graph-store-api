@@ -1,0 +1,13 @@
+name: graph
+services:
+  neo4j:
+    restart: always
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      - NEO4J_AUTH=none
+    volumes: db:/data/db
+    image: neo4j:5.19.0
+volumes:
+  db:

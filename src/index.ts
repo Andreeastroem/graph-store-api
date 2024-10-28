@@ -16,7 +16,7 @@ async function main() {
       graphiql: true,
     });
 
-    app.listen({ port: parseInt(port) });
+    app.listen({ port: parseInt(port), host: "0.0.0.0" });
   } catch (error) {
     console.error(error);
   }

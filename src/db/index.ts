@@ -6,6 +6,7 @@ function driverUrl() {
 }
 
 function authCredentials() {
+  console.log("Node env:", process.env.NODE_ENV);
   if (process.env.NODE_ENV === "remote") {
     const user = process.env.NEO4J_USER ?? "";
     const password = process.env.NEO4J_PASSWORD ?? "";

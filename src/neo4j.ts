@@ -3,9 +3,7 @@ import { neodriver } from "./db";
 
 const typedefs = `
 type Book {
-	belongsToClassifications: [Classification!]! @relationship(type: "BELONGS_TO", direction: OUT)
 	belongsToUniverses: [Universe!]! @relationship(type: "BELONGS_TO", direction: OUT)
-	classificationsNotPrimary: [Classification!]! @relationship(type: "NOT_PRIMARY", direction: IN)
 	existsInFormats: [Format!]! @relationship(type: "EXISTS_IN", direction: OUT)
 	formatsHasFormat: [Format!]! @relationship(type: "HAS_FORMAT", direction: IN)
 	illustratedByPeople: [Person!]! @relationship(type: "ILLUSTRATED_BY", direction: OUT)
@@ -15,12 +13,10 @@ type Book {
 	narratedByPeople: [Person!]! @relationship(type: "NARRATED_BY", direction: OUT)
 	originalLanguages: [Language!]! @relationship(type: "ORIGINAL", direction: OUT)
 	pages: BigInt!
-	partOfSeries: [Series!]! @relationship(type: "PART_OF", direction: OUT)
 	peopleIllustrated: [Person!]! @relationship(type: "ILLUSTRATED", direction: IN)
 	peopleNarrated: [Person!]! @relationship(type: "NARRATED", direction: IN)
 	peopleWrote: [Person!]! @relationship(type: "WROTE", direction: IN)
 	pricesCosts: [Price!]! @relationship(type: "COSTS", direction: IN, properties: "CostsProperties")
-	seriesHasPart: [Series!]! @relationship(type: "HAS_PART", direction: IN)
 	sku: String!
 	title: String!
 	translatedInLanguages: [Language!]! @relationship(type: "TRANSLATED_IN", direction: OUT)
@@ -31,9 +27,9 @@ type Book {
 }
 
 type Classification {
-	booksBelongsTo: [Book!]! @relationship(type: "BELONGS_TO", direction: IN)
 	name: String!
-	notPrimaryBooks: [Book!]! @relationship(type: "NOT_PRIMARY", direction: OUT)
+	notPrimaryWorks: [Work!]! @relationship(type: "NOT_PRIMARY", direction: OUT)
+	worksBelongsTo: [Work!]! @relationship(type: "BELONGS_TO", direction: IN)
 }
 
 type CostsProperties @relationshipProperties {
@@ -73,10 +69,10 @@ type Price {
 }
 
 type Series {
-	booksPartOf: [Book!]! @relationship(type: "PART_OF", direction: IN)
-	hasPartBooks: [Book!]! @relationship(type: "HAS_PART", direction: OUT)
+	hasPartWorks: [Work!]! @relationship(type: "HAS_PART", direction: OUT)
 	name: String!
 	part: BigInt!
+	worksPartOf: [Work!]! @relationship(type: "PART_OF", direction: IN)
 }
 
 type Universe {
@@ -86,8 +82,12 @@ type Universe {
 }
 
 type Work {
+	belongsToClassifications: [Classification!]! @relationship(type: "BELONGS_TO", direction: OUT)
 	booksVariantOff: [Book!]! @relationship(type: "VARIANT_OFF", direction: IN)
+	classificationsNotPrimary: [Classification!]! @relationship(type: "NOT_PRIMARY", direction: IN)
 	id: String!
+	partOfSeries: [Series!]! @relationship(type: "PART_OF", direction: OUT)
+	seriesHasPart: [Series!]! @relationship(type: "HAS_PART", direction: IN)
 	title: String!
 	variantBooks: [Book!]! @relationship(type: "VARIANT", direction: OUT)
 }

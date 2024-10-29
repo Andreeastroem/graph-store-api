@@ -13,6 +13,7 @@ export function getSeedQuery() {
     if (event.type === "book") {
       totalQuery += mergeBook(event.sku, event.title, event.isbn, event.pages);
     }
+    totalQuery += " " + connectBookToWork(event.work.id, event.work.name);
     if (event.language) {
       totalQuery +=
         " " +
@@ -30,14 +31,14 @@ export function getSeedQuery() {
         " " +
         event.classifications.primary
           .map((classification, idx) =>
-            connectBookToClassification(classification, true, idx)
+            connectWorkToClassification(classification, true, idx)
           )
           .join(" ");
       totalQuery +=
         " " +
         event.classifications.secondary
           .map((classification, idx) =>
-            connectBookToClassification(classification, false, idx)
+            connectWorkToClassification(classification, false, idx)
           )
           .join(" ");
     }
@@ -54,14 +55,12 @@ export function getSeedQuery() {
       });
     }
     totalQuery +=
-      " " + connectBookToSeries(event.series.name, event.series.part);
+      " " + connectWorkToSeries(event.series.name, event.series.part);
     totalQuery +=
       " " +
       event.universes
         .map((universe) => connectBookToUniverses(universe))
         .join(" ");
-
-    totalQuery += " " + connectBookToWork(event.work.id, event.work.name);
 
     totalQuery +=
       " " + connectBookToPrice(event.price.amount, event.price.currency);
@@ -86,7 +85,7 @@ function connectBookToPrice(amount: number, currency: string) {
 function connectBookToWork(workId: string, workName: string) {
   const match = `MERGE (w:Work {id: "${workId}", title: "${workName}"})`;
   const query = `
-  MERGE(b)-[:VARIANT_OFF]->(w)
+  MERGE (b)-[:VARIANT_OFF]->(w)
   MERGE (b)<-[:VARIANT]-(w)
   `;
   return match + " " + query;
@@ -106,26 +105,26 @@ function connectBookToLanguage(code: string, name: string, original: boolean) {
 function connectBookToFormat(formatName: string) {
   const match = `MERGE (f:Format {name: "${formatName}"})`;
   const query = `
-  MERGE(b)-[:EXISTS_IN]->(f)
+  MERGE (b)-[:EXISTS_IN]->(f)
   MERGE (b)<-[:HAS_FORMAT]-(f)
   `;
 
   return match + " " + query;
 }
 
-function connectBookToClassification(
+function connectWorkToClassification(
   classificationName: string,
   primary: boolean,
   idx: number
 ) {
-  const bookClassificationLabel = primary ? "IS_PRIMARILY" : "BELONGS_TO";
-  const classificationBookLabel = primary ? "PRIMARY" : "NOT_PRIMARY";
+  const workClassificationLabel = primary ? "IS_PRIMARILY" : "BELONGS_TO";
+  const classificationWorkLabel = primary ? "PRIMARY" : "NOT_PRIMARY";
   const match = `MERGE (c${
-    bookClassificationLabel + idx
+    workClassificationLabel + idx
   }:Classification {name: "${classificationName}"})`;
   const query = `
-  MERGE(b)-[:${bookClassificationLabel}]->(c${bookClassificationLabel + idx})
-  MERGE (b)<-[:${classificationBookLabel}]-(c${bookClassificationLabel + idx})
+  MERGE (w)-[:${workClassificationLabel}]->(c${workClassificationLabel + idx})
+  MERGE (w)<-[:${classificationWorkLabel}]-(c${workClassificationLabel + idx})
   `;
 
   return match + " " + query;
@@ -168,11 +167,11 @@ function connectBookToUniverses(universeName: string) {
   return match + " " + query;
 }
 
-function connectBookToSeries(seriesName: string, part?: number) {
+function connectWorkToSeries(seriesName: string, part?: number) {
   const match = `MERGE (s:Series {name: "${seriesName}", part: ${part ? part : -1}})`;
   const query = `
-    MERGE (b)-[:PART_OF]->(s)
-    MERGE (b)<-[:HAS_PART]-(s)
+    MERGE (w)-[:PART_OF]->(s)
+    MERGE (w)<-[:HAS_PART]-(s)
   `;
 
   return match + " " + query;

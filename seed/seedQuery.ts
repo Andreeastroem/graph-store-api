@@ -55,7 +55,7 @@ export function getSeedQuery() {
     totalQuery +=
       " " +
       event.universes
-        .map((universe) => connectBookToUniverses(universe))
+        .map((universe) => connectWorkToUniverses(universe))
         .join(" ");
 
     totalQuery +=
@@ -101,7 +101,7 @@ function connectBookToLanguage(code: string, name: string, original: boolean) {
 function connectBookToFormat(formatName: string) {
   const match = `MERGE (f:Format {name: "${formatName}"})`;
   const query = `
-  MERGE (b)-[:EXISTS_IN]->(f)
+  MERGE (b)-[:IS_FORMAT]->(f)
   MERGE (b)<-[:HAS_FORMAT]-(f)
   `;
 
@@ -153,21 +153,21 @@ function inversePersonRelationship(
   }
 }
 
-function connectBookToUniverses(universeName: string) {
+function connectWorkToUniverses(universeName: string) {
   const match = `MERGE (u:Universe {name: "${universeName}"})`;
   const query = `
-  MERGE (b)-[:BELONGS_TO]->(u)
-  MERGE (b)<-[:CONTAINS]-(u)
+  MERGE (w)-[:BELONGS_TO]->(u)
+  MERGE (w)<-[:CONTAINS]-(u)
   `;
 
   return match + " " + query;
 }
 
 function connectWorkToSeries(seriesName: string, part?: number) {
-  const match = `MERGE (s:Series {name: "${seriesName}", part: ${part ? part : -1}})`;
+  const match = `MERGE (s:Series {name: "${seriesName}"})`;
   const query = `
-    MERGE (w)-[:PART_OF]->(s)
-    MERGE (w)<-[:HAS_PART]-(s)
+    MERGE (w)-[:PART_OF {part: ${part ? part : -1}}]->(s)
+    MERGE (w)<-[:HAS_PART {part: ${part ? part : -1}}]-(s)
   `;
 
   return match + " " + query;

@@ -35,6 +35,12 @@ import { getSeedQuery } from "./seedQuery";
     });
     await session.executeWrite(async (tx) => {
       return await tx.run(
+        "CREATE CONSTRAINT IF NOT EXISTS FOR (f:Format) REQUIRE f.name IS UNIQUE",
+        { database: "neo4j" }
+      );
+    });
+    await session.executeWrite(async (tx) => {
+      return await tx.run(
         "CREATE CONSTRAINT IF NOT EXISTS FOR (classification:Classification) REQUIRE classification.name IS UNIQUE",
         { database: "neo4j" }
       );

@@ -45,6 +45,10 @@ type Format {
 	name: String!
 }
 
+type HasPartProperties @relationshipProperties {
+	part: BigInt!
+}
+
 type Language {
 	booksOriginal: [Book!]! @relationship(type: "ORIGINAL", direction: IN)
 	booksTranslatedIn: [Book!]! @relationship(type: "TRANSLATED_IN", direction: IN)
@@ -52,6 +56,10 @@ type Language {
 	name: String!
 	originalBooks: [Book!]! @relationship(type: "ORIGINAL", direction: OUT)
 	translatedBooks: [Book!]! @relationship(type: "TRANSLATED", direction: OUT)
+}
+
+type PartOfProperties @relationshipProperties {
+	part: BigInt!
 }
 
 type Person {
@@ -71,10 +79,9 @@ type Price {
 }
 
 type Series {
-	hasPartWorks: [Work!]! @relationship(type: "HAS_PART", direction: OUT)
+	hasPartWorks: [Work!]! @relationship(type: "HAS_PART", direction: OUT, properties: "HasPartProperties")
 	name: String!
-	part: BigInt!
-	worksPartOf: [Work!]! @relationship(type: "PART_OF", direction: IN)
+	worksPartOf: [Work!]! @relationship(type: "PART_OF", direction: IN, properties: "PartOfProperties")
 }
 
 type Universe {
@@ -90,8 +97,8 @@ type Work {
 	classificationsPrimary: [Classification!]! @relationship(type: "PRIMARY", direction: IN)
 	id: String!
 	isPrimarilyClassifications: [Classification!]! @relationship(type: "IS_PRIMARILY", direction: OUT)
-	partOfSeries: [Series!]! @relationship(type: "PART_OF", direction: OUT)
-	seriesHasPart: [Series!]! @relationship(type: "HAS_PART", direction: IN)
+	partOfSeries: [Series!]! @relationship(type: "PART_OF", direction: OUT, properties: "PartOfProperties")
+	seriesHasPart: [Series!]! @relationship(type: "HAS_PART", direction: IN, properties: "HasPartProperties")
 	title: String!
 	variantBooks: [Book!]! @relationship(type: "VARIANT", direction: OUT)
 }

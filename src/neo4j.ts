@@ -29,7 +29,9 @@ type Book {
 type Classification {
 	name: String!
 	notPrimaryWorks: [Work!]! @relationship(type: "NOT_PRIMARY", direction: OUT)
+	primaryWorks: [Work!]! @relationship(type: "PRIMARY", direction: OUT)
 	worksBelongsTo: [Work!]! @relationship(type: "BELONGS_TO", direction: IN)
+	worksIsPrimarily: [Work!]! @relationship(type: "IS_PRIMARILY", direction: IN)
 }
 
 type CostsProperties @relationshipProperties {
@@ -85,7 +87,9 @@ type Work {
 	belongsToClassifications: [Classification!]! @relationship(type: "BELONGS_TO", direction: OUT)
 	booksVariantOff: [Book!]! @relationship(type: "VARIANT_OFF", direction: IN)
 	classificationsNotPrimary: [Classification!]! @relationship(type: "NOT_PRIMARY", direction: IN)
+	classificationsPrimary: [Classification!]! @relationship(type: "PRIMARY", direction: IN)
 	id: String!
+	isPrimarilyClassifications: [Classification!]! @relationship(type: "IS_PRIMARILY", direction: OUT)
 	partOfSeries: [Series!]! @relationship(type: "PART_OF", direction: OUT)
 	seriesHasPart: [Series!]! @relationship(type: "HAS_PART", direction: IN)
 	title: String!

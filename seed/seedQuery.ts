@@ -6,10 +6,6 @@ export function getSeedQuery() {
   const seedQuery = seedData.map((event) => {
     let totalQuery = "";
 
-    if (event.title === "Legends of the Lost") {
-      console.log(JSON.stringify(event, null, 2));
-    }
-
     if (event.type === "book") {
       totalQuery += mergeBook(event.sku, event.title, event.isbn, event.pages);
     }

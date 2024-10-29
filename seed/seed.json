@@ -2,9 +2,9 @@
   {
     "type": "book",
     "title": "The Silent Echo",
-    "sku": "P43725136",
+    "sku": "P98084780",
     "price": {
-      "amount": 24.6,
+      "amount": 18.33,
       "currency": "USD"
     },
     "people": {
@@ -64,13 +64,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -138,13 +146,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -212,13 +228,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -286,13 +310,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -360,13 +392,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -434,13 +474,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -508,13 +556,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -582,13 +638,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -656,13 +720,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "The Last Horizon",
-      "id": "4d2339cc-1dff-4477-97cb-fa5df02fea7d"
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   },
   {
@@ -730,13 +802,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "The Last Horizon",
-      "id": "4d2339cc-1dff-4477-97cb-fa5df02fea7d"
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   },
   {
@@ -804,13 +884,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "The Last Horizon",
-      "id": "4d2339cc-1dff-4477-97cb-fa5df02fea7d"
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   },
   {
@@ -878,13 +966,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "The Last Horizon",
-      "id": "4d2339cc-1dff-4477-97cb-fa5df02fea7d"
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   },
   {
@@ -952,13 +1048,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "The Last Horizon",
-      "id": "4d2339cc-1dff-4477-97cb-fa5df02fea7d"
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   },
   {
@@ -1026,13 +1130,21 @@
       "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "The Last Horizon",
-      "id": "4d2339cc-1dff-4477-97cb-fa5df02fea7d"
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   },
   {
@@ -1096,16 +1208,25 @@
     "isbn": "7735003228798",
     "format": "Paperback",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1169,16 +1290,25 @@
     "isbn": "7735003228798",
     "format": "Hardcover",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1242,16 +1372,25 @@
     "isbn": "7735003228798",
     "format": "E-book",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1315,16 +1454,25 @@
     "isbn": "7735003228798",
     "format": "Audiobook",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1388,16 +1536,25 @@
     "isbn": "7735003228798",
     "format": "Paperback",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1461,16 +1618,25 @@
     "isbn": "7735003228798",
     "format": "Hardcover",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1534,16 +1700,25 @@
     "isbn": "7735003228798",
     "format": "E-book",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1607,16 +1782,25 @@
     "isbn": "7735003228798",
     "format": "Audiobook",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers in the Wind",
-      "id": "982efa18-c2cb-41ba-96c9-af0a362bfdbc"
+      "id": "78c12172-df93-4919-a6ce-7a7e0ad6f5be"
     }
   },
   {
@@ -1680,16 +1864,25 @@
     "isbn": "4104427973166",
     "format": "Paperback",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of the Past",
-      "id": "a42ef705-0062-4cdf-9d8f-09f41d364c0d"
+      "id": "32ffbf01-f74c-4560-b582-efa254e8e65d"
     }
   },
   {
@@ -1753,16 +1946,25 @@
     "isbn": "4104427973166",
     "format": "Hardcover",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of the Past",
-      "id": "a42ef705-0062-4cdf-9d8f-09f41d364c0d"
+      "id": "32ffbf01-f74c-4560-b582-efa254e8e65d"
     }
   },
   {
@@ -1826,16 +2028,25 @@
     "isbn": "4104427973166",
     "format": "E-book",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of the Past",
-      "id": "a42ef705-0062-4cdf-9d8f-09f41d364c0d"
+      "id": "32ffbf01-f74c-4560-b582-efa254e8e65d"
     }
   },
   {
@@ -1899,16 +2110,25 @@
     "isbn": "4104427973166",
     "format": "Paperback",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of the Past",
-      "id": "a42ef705-0062-4cdf-9d8f-09f41d364c0d"
+      "id": "32ffbf01-f74c-4560-b582-efa254e8e65d"
     }
   },
   {
@@ -1972,16 +2192,25 @@
     "isbn": "4104427973166",
     "format": "Hardcover",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of the Past",
-      "id": "a42ef705-0062-4cdf-9d8f-09f41d364c0d"
+      "id": "32ffbf01-f74c-4560-b582-efa254e8e65d"
     }
   },
   {
@@ -2045,16 +2274,25 @@
     "isbn": "4104427973166",
     "format": "E-book",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of the Past",
-      "id": "a42ef705-0062-4cdf-9d8f-09f41d364c0d"
+      "id": "32ffbf01-f74c-4560-b582-efa254e8e65d"
     }
   },
   {
@@ -2118,16 +2356,25 @@
     "isbn": "4505954144932",
     "format": "Paperback",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2191,16 +2438,25 @@
     "isbn": "4505954144932",
     "format": "Hardcover",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2264,16 +2520,25 @@
     "isbn": "4505954144932",
     "format": "E-book",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2337,16 +2602,25 @@
     "isbn": "4505954144932",
     "format": "Audiobook",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2410,16 +2684,25 @@
     "isbn": "4505954144932",
     "format": "Paperback",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2483,16 +2766,25 @@
     "isbn": "4505954144932",
     "format": "Hardcover",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2556,16 +2848,25 @@
     "isbn": "4505954144932",
     "format": "E-book",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2629,16 +2930,25 @@
     "isbn": "4505954144932",
     "format": "Audiobook",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Stars",
-      "id": "be2b6de4-cebe-4574-8d6a-fc9697a46cbe"
+      "id": "03f56578-cc16-4b7e-88ae-8646d23fb1ee"
     }
   },
   {
@@ -2702,16 +3012,25 @@
     "isbn": "4669425494310",
     "format": "Paperback",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Eternity",
-      "id": "c9e1fbb7-07d5-4b62-854f-83569d3ea3dc"
+      "id": "9a44c0d9-daf0-4eed-b632-bec0e44c8335"
     }
   },
   {
@@ -2775,16 +3094,25 @@
     "isbn": "4669425494310",
     "format": "Hardcover",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Eternity",
-      "id": "c9e1fbb7-07d5-4b62-854f-83569d3ea3dc"
+      "id": "9a44c0d9-daf0-4eed-b632-bec0e44c8335"
     }
   },
   {
@@ -2848,16 +3176,25 @@
     "isbn": "4669425494310",
     "format": "E-book",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Eternity",
-      "id": "c9e1fbb7-07d5-4b62-854f-83569d3ea3dc"
+      "id": "9a44c0d9-daf0-4eed-b632-bec0e44c8335"
     }
   },
   {
@@ -2921,16 +3258,25 @@
     "isbn": "4669425494310",
     "format": "Paperback",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Eternity",
-      "id": "c9e1fbb7-07d5-4b62-854f-83569d3ea3dc"
+      "id": "9a44c0d9-daf0-4eed-b632-bec0e44c8335"
     }
   },
   {
@@ -2994,16 +3340,25 @@
     "isbn": "4669425494310",
     "format": "Hardcover",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Eternity",
-      "id": "c9e1fbb7-07d5-4b62-854f-83569d3ea3dc"
+      "id": "9a44c0d9-daf0-4eed-b632-bec0e44c8335"
     }
   },
   {
@@ -3067,16 +3422,25 @@
     "isbn": "4669425494310",
     "format": "E-book",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Eternity",
-      "id": "c9e1fbb7-07d5-4b62-854f-83569d3ea3dc"
+      "id": "9a44c0d9-daf0-4eed-b632-bec0e44c8335"
     }
   },
   {
@@ -3140,16 +3504,25 @@
     "isbn": "6580839729429",
     "format": "Paperback",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3213,16 +3586,25 @@
     "isbn": "6580839729429",
     "format": "Hardcover",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3286,16 +3668,25 @@
     "isbn": "6580839729429",
     "format": "E-book",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3359,16 +3750,25 @@
     "isbn": "6580839729429",
     "format": "Audiobook",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3432,16 +3832,25 @@
     "isbn": "6580839729429",
     "format": "Paperback",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3505,16 +3914,25 @@
     "isbn": "6580839729429",
     "format": "Hardcover",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3578,16 +3996,25 @@
     "isbn": "6580839729429",
     "format": "E-book",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3651,16 +4078,25 @@
     "isbn": "6580839729429",
     "format": "Audiobook",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Lost Kingdom",
-      "id": "cc8d1aa7-d0bd-4743-bfb2-4d35054aa8af"
+      "id": "569ba0e7-2c6c-4a37-98bd-b02ae24c585f"
     }
   },
   {
@@ -3724,16 +4160,25 @@
     "isbn": "0784328362237",
     "format": "Paperback",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Broken Crown",
-      "id": "62a00672-d8ca-4fc9-a2a1-0fb0273874a0"
+      "id": "b3decb54-7f90-4607-b20e-555970fc8112"
     }
   },
   {
@@ -3797,16 +4242,25 @@
     "isbn": "0784328362237",
     "format": "Hardcover",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Broken Crown",
-      "id": "62a00672-d8ca-4fc9-a2a1-0fb0273874a0"
+      "id": "b3decb54-7f90-4607-b20e-555970fc8112"
     }
   },
   {
@@ -3870,16 +4324,25 @@
     "isbn": "0784328362237",
     "format": "E-book",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Broken Crown",
-      "id": "62a00672-d8ca-4fc9-a2a1-0fb0273874a0"
+      "id": "b3decb54-7f90-4607-b20e-555970fc8112"
     }
   },
   {
@@ -3943,16 +4406,25 @@
     "isbn": "0784328362237",
     "format": "Paperback",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Broken Crown",
-      "id": "62a00672-d8ca-4fc9-a2a1-0fb0273874a0"
+      "id": "b3decb54-7f90-4607-b20e-555970fc8112"
     }
   },
   {
@@ -4016,16 +4488,25 @@
     "isbn": "0784328362237",
     "format": "Hardcover",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Broken Crown",
-      "id": "62a00672-d8ca-4fc9-a2a1-0fb0273874a0"
+      "id": "b3decb54-7f90-4607-b20e-555970fc8112"
     }
   },
   {
@@ -4089,16 +4570,25 @@
     "isbn": "0784328362237",
     "format": "E-book",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Broken Crown",
-      "id": "62a00672-d8ca-4fc9-a2a1-0fb0273874a0"
+      "id": "b3decb54-7f90-4607-b20e-555970fc8112"
     }
   },
   {
@@ -4162,16 +4652,25 @@
     "isbn": "9569532184947",
     "format": "Paperback",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4235,16 +4734,25 @@
     "isbn": "9569532184947",
     "format": "Hardcover",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4308,16 +4816,25 @@
     "isbn": "9569532184947",
     "format": "E-book",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4381,16 +4898,25 @@
     "isbn": "9569532184947",
     "format": "Audiobook",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4454,16 +4980,25 @@
     "isbn": "9569532184947",
     "format": "Paperback",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4527,16 +5062,25 @@
     "isbn": "9569532184947",
     "format": "Hardcover",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4600,16 +5144,25 @@
     "isbn": "9569532184947",
     "format": "E-book",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4673,16 +5226,25 @@
     "isbn": "9569532184947",
     "format": "Audiobook",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Deep",
-      "id": "69929fa5-a905-43e4-9fd9-490fdce19ccd"
+      "id": "90621fd8-6e0c-4bb0-b384-de9531495b28"
     }
   },
   {
@@ -4746,16 +5308,25 @@
     "isbn": "0048395749273",
     "format": "Paperback",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Ancients",
-      "id": "59161d3e-5b59-4853-b35b-e0e572f5152e"
+      "id": "fd9d8355-c4a1-4a36-9f60-76da2059afb6"
     }
   },
   {
@@ -4819,16 +5390,25 @@
     "isbn": "0048395749273",
     "format": "Hardcover",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Ancients",
-      "id": "59161d3e-5b59-4853-b35b-e0e572f5152e"
+      "id": "fd9d8355-c4a1-4a36-9f60-76da2059afb6"
     }
   },
   {
@@ -4892,16 +5472,25 @@
     "isbn": "0048395749273",
     "format": "E-book",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Ancients",
-      "id": "59161d3e-5b59-4853-b35b-e0e572f5152e"
+      "id": "fd9d8355-c4a1-4a36-9f60-76da2059afb6"
     }
   },
   {
@@ -4965,16 +5554,25 @@
     "isbn": "0048395749273",
     "format": "Paperback",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Ancients",
-      "id": "59161d3e-5b59-4853-b35b-e0e572f5152e"
+      "id": "fd9d8355-c4a1-4a36-9f60-76da2059afb6"
     }
   },
   {
@@ -5038,16 +5636,25 @@
     "isbn": "0048395749273",
     "format": "Hardcover",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Ancients",
-      "id": "59161d3e-5b59-4853-b35b-e0e572f5152e"
+      "id": "fd9d8355-c4a1-4a36-9f60-76da2059afb6"
     }
   },
   {
@@ -5111,16 +5718,25 @@
     "isbn": "0048395749273",
     "format": "E-book",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Ancients",
-      "id": "59161d3e-5b59-4853-b35b-e0e572f5152e"
+      "id": "fd9d8355-c4a1-4a36-9f60-76da2059afb6"
     }
   },
   {
@@ -5188,13 +5804,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5262,13 +5886,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5336,13 +5968,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5410,13 +6050,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5484,13 +6132,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5558,13 +6214,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5632,13 +6296,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5706,13 +6378,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Thriller", "Adult"]
+      "primary": [
+        "Noire"
+      ],
+      "secondary": [
+        "Mystery",
+        "Thriller",
+        "Adult"
+      ]
     },
-    "universes": ["Mystic World"],
+    "universes": [
+      "Mystic World"
+    ],
     "work": {
       "name": "Echoes of the Abyss",
-      "id": "e0837b2f-5ead-4b73-bd7f-fef4b7484507"
+      "id": "3306ea14-6780-4055-afcf-a0f73f1774ea"
     }
   },
   {
@@ -5780,13 +6460,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "Horizon Reclaimed",
-      "id": "ef00fd5b-90af-45f2-9aa2-9c1aeeaf226c"
+      "id": "967fdf91-3b32-4393-9fe9-a9b55ee445ee"
     }
   },
   {
@@ -5854,13 +6542,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "Horizon Reclaimed",
-      "id": "ef00fd5b-90af-45f2-9aa2-9c1aeeaf226c"
+      "id": "967fdf91-3b32-4393-9fe9-a9b55ee445ee"
     }
   },
   {
@@ -5928,13 +6624,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "Horizon Reclaimed",
-      "id": "ef00fd5b-90af-45f2-9aa2-9c1aeeaf226c"
+      "id": "967fdf91-3b32-4393-9fe9-a9b55ee445ee"
     }
   },
   {
@@ -6002,13 +6706,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "Horizon Reclaimed",
-      "id": "ef00fd5b-90af-45f2-9aa2-9c1aeeaf226c"
+      "id": "967fdf91-3b32-4393-9fe9-a9b55ee445ee"
     }
   },
   {
@@ -6076,13 +6788,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "Horizon Reclaimed",
-      "id": "ef00fd5b-90af-45f2-9aa2-9c1aeeaf226c"
+      "id": "967fdf91-3b32-4393-9fe9-a9b55ee445ee"
     }
   },
   {
@@ -6150,13 +6870,21 @@
       "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+      "primary": [
+        "Romance"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Galactic Realm"],
+    "universes": [
+      "Galactic Realm"
+    ],
     "work": {
       "name": "Horizon Reclaimed",
-      "id": "ef00fd5b-90af-45f2-9aa2-9c1aeeaf226c"
+      "id": "967fdf91-3b32-4393-9fe9-a9b55ee445ee"
     }
   },
   {
@@ -6220,16 +6948,25 @@
     "isbn": "7735003228798",
     "format": "Paperback",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6293,16 +7030,25 @@
     "isbn": "7735003228798",
     "format": "Hardcover",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6366,16 +7112,25 @@
     "isbn": "7735003228798",
     "format": "E-book",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6439,16 +7194,25 @@
     "isbn": "7735003228798",
     "format": "Audiobook",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6512,16 +7276,25 @@
     "isbn": "7735003228798",
     "format": "Paperback",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6585,16 +7358,25 @@
     "isbn": "7735003228798",
     "format": "Hardcover",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6658,16 +7440,25 @@
     "isbn": "7735003228798",
     "format": "E-book",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6731,16 +7522,25 @@
     "isbn": "7735003228798",
     "format": "Audiobook",
     "series": {
-      "name": "Wind Whisperer"
+      "name": "Wind Whisperer",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Young Adult", "Romance"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Young Adult",
+        "Romance"
+      ]
     },
-    "universes": ["Elemental Realms"],
+    "universes": [
+      "Elemental Realms"
+    ],
     "work": {
       "name": "Whispers of the Storm",
-      "id": "d46413f2-35b4-4218-9436-ef01f5408083"
+      "id": "f7cfc304-5700-4490-b84a-e2a6d4646469"
     }
   },
   {
@@ -6804,16 +7604,25 @@
     "isbn": "4104427973166",
     "format": "Paperback",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of Redemption",
-      "id": "f55b5f35-a357-4f65-9be4-62648a8847b4"
+      "id": "f481cc10-3285-46d4-893d-9dce98487579"
     }
   },
   {
@@ -6877,16 +7686,25 @@
     "isbn": "4104427973166",
     "format": "Hardcover",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of Redemption",
-      "id": "f55b5f35-a357-4f65-9be4-62648a8847b4"
+      "id": "f481cc10-3285-46d4-893d-9dce98487579"
     }
   },
   {
@@ -6950,16 +7768,25 @@
     "isbn": "4104427973166",
     "format": "E-book",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of Redemption",
-      "id": "f55b5f35-a357-4f65-9be4-62648a8847b4"
+      "id": "f481cc10-3285-46d4-893d-9dce98487579"
     }
   },
   {
@@ -7023,16 +7850,25 @@
     "isbn": "4104427973166",
     "format": "Paperback",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of Redemption",
-      "id": "f55b5f35-a357-4f65-9be4-62648a8847b4"
+      "id": "f481cc10-3285-46d4-893d-9dce98487579"
     }
   },
   {
@@ -7096,16 +7932,25 @@
     "isbn": "4104427973166",
     "format": "Hardcover",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of Redemption",
-      "id": "f55b5f35-a357-4f65-9be4-62648a8847b4"
+      "id": "f481cc10-3285-46d4-893d-9dce98487579"
     }
   },
   {
@@ -7169,16 +8014,25 @@
     "isbn": "4104427973166",
     "format": "E-book",
     "series": {
-      "name": "Past Chronicles"
+      "name": "Past Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Historical Fiction", "Drama", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Historical Fiction",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Timeless World"],
+    "universes": [
+      "Timeless World"
+    ],
     "work": {
       "name": "Shadows of Redemption",
-      "id": "f55b5f35-a357-4f65-9be4-62648a8847b4"
+      "id": "f481cc10-3285-46d4-893d-9dce98487579"
     }
   },
   {
@@ -7242,16 +8096,25 @@
     "isbn": "4505954144932",
     "format": "Paperback",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7315,16 +8178,25 @@
     "isbn": "4505954144932",
     "format": "Hardcover",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7388,16 +8260,25 @@
     "isbn": "4505954144932",
     "format": "E-book",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7461,16 +8342,25 @@
     "isbn": "4505954144932",
     "format": "Audiobook",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7534,16 +8424,25 @@
     "isbn": "4505954144932",
     "format": "Paperback",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7607,16 +8506,25 @@
     "isbn": "4505954144932",
     "format": "Hardcover",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7680,16 +8588,25 @@
     "isbn": "4505954144932",
     "format": "E-book",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7753,16 +8670,25 @@
     "isbn": "4505954144932",
     "format": "Audiobook",
     "series": {
-      "name": "Star Voyager"
+      "name": "Star Voyager",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Science Fiction", "Adventure", "Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Science Fiction",
+        "Adventure",
+        "Adult"
+      ]
     },
-    "universes": ["Cosmic Universe"],
+    "universes": [
+      "Cosmic Universe"
+    ],
     "work": {
       "name": "Beyond the Void",
-      "id": "61a86625-c9ec-4fe1-9161-32d2603633a6"
+      "id": "771bb920-2431-46a2-9ea1-ac8f92636381"
     }
   },
   {
@@ -7826,16 +8752,25 @@
     "isbn": "4669425494310",
     "format": "Paperback",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Infinity",
-      "id": "d2d8411d-65b0-466c-be6f-fe9899f41d4e"
+      "id": "cd468873-74da-4d61-aa11-481ec3bea688"
     }
   },
   {
@@ -7899,16 +8834,25 @@
     "isbn": "4669425494310",
     "format": "Hardcover",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Infinity",
-      "id": "d2d8411d-65b0-466c-be6f-fe9899f41d4e"
+      "id": "cd468873-74da-4d61-aa11-481ec3bea688"
     }
   },
   {
@@ -7972,16 +8916,25 @@
     "isbn": "4669425494310",
     "format": "E-book",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Infinity",
-      "id": "d2d8411d-65b0-466c-be6f-fe9899f41d4e"
+      "id": "cd468873-74da-4d61-aa11-481ec3bea688"
     }
   },
   {
@@ -8045,16 +8998,25 @@
     "isbn": "4669425494310",
     "format": "Paperback",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Infinity",
-      "id": "d2d8411d-65b0-466c-be6f-fe9899f41d4e"
+      "id": "cd468873-74da-4d61-aa11-481ec3bea688"
     }
   },
   {
@@ -8118,16 +9080,25 @@
     "isbn": "4669425494310",
     "format": "Hardcover",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Infinity",
-      "id": "d2d8411d-65b0-466c-be6f-fe9899f41d4e"
+      "id": "cd468873-74da-4d61-aa11-481ec3bea688"
     }
   },
   {
@@ -8191,16 +9162,25 @@
     "isbn": "4669425494310",
     "format": "E-book",
     "series": {
-      "name": "Eternal Saga"
+      "name": "Eternal Saga",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mystery"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Ancient Realms"],
+    "universes": [
+      "Ancient Realms"
+    ],
     "work": {
       "name": "Echoes of Infinity",
-      "id": "d2d8411d-65b0-466c-be6f-fe9899f41d4e"
+      "id": "cd468873-74da-4d61-aa11-481ec3bea688"
     }
   },
   {
@@ -8264,16 +9244,25 @@
     "isbn": "6580839729429",
     "format": "Paperback",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8337,16 +9326,25 @@
     "isbn": "6580839729429",
     "format": "Hardcover",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8410,16 +9408,25 @@
     "isbn": "6580839729429",
     "format": "E-book",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8483,16 +9490,25 @@
     "isbn": "6580839729429",
     "format": "Audiobook",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8556,16 +9572,25 @@
     "isbn": "6580839729429",
     "format": "Paperback",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8629,16 +9654,25 @@
     "isbn": "6580839729429",
     "format": "Hardcover",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8702,16 +9736,25 @@
     "isbn": "6580839729429",
     "format": "E-book",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8775,16 +9818,25 @@
     "isbn": "6580839729429",
     "format": "Audiobook",
     "series": {
-      "name": "Kingdom Chronicles"
+      "name": "Kingdom Chronicles",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Adventure", "Young Adult"]
+      "primary": [
+        "Exploration"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Mystic Realms"],
+    "universes": [
+      "Mystic Realms"
+    ],
     "work": {
       "name": "The Hidden Kingdom",
-      "id": "c226c309-1318-4ac9-a613-b38427910bb7"
+      "id": "ad656509-41ce-437e-bd4d-bccec3d56f97"
     }
   },
   {
@@ -8848,16 +9900,25 @@
     "isbn": "0784328362237",
     "format": "Paperback",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Shattered Crown",
-      "id": "2869a02b-55ae-40b3-abed-946b8799f52a"
+      "id": "f60a8928-d5e5-4da9-a6d5-28c9b4969b5b"
     }
   },
   {
@@ -8921,16 +9982,25 @@
     "isbn": "0784328362237",
     "format": "Hardcover",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Shattered Crown",
-      "id": "2869a02b-55ae-40b3-abed-946b8799f52a"
+      "id": "f60a8928-d5e5-4da9-a6d5-28c9b4969b5b"
     }
   },
   {
@@ -8994,16 +10064,25 @@
     "isbn": "0784328362237",
     "format": "E-book",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Shattered Crown",
-      "id": "2869a02b-55ae-40b3-abed-946b8799f52a"
+      "id": "f60a8928-d5e5-4da9-a6d5-28c9b4969b5b"
     }
   },
   {
@@ -9067,16 +10146,25 @@
     "isbn": "0784328362237",
     "format": "Paperback",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Shattered Crown",
-      "id": "2869a02b-55ae-40b3-abed-946b8799f52a"
+      "id": "f60a8928-d5e5-4da9-a6d5-28c9b4969b5b"
     }
   },
   {
@@ -9140,16 +10228,25 @@
     "isbn": "0784328362237",
     "format": "Hardcover",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Shattered Crown",
-      "id": "2869a02b-55ae-40b3-abed-946b8799f52a"
+      "id": "f60a8928-d5e5-4da9-a6d5-28c9b4969b5b"
     }
   },
   {
@@ -9213,16 +10310,25 @@
     "isbn": "0784328362237",
     "format": "E-book",
     "series": {
-      "name": "Crown Series"
+      "name": "Crown Series",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Drama", "Adult"]
+      "primary": [
+        "Historical"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Drama",
+        "Adult"
+      ]
     },
-    "universes": ["Royal Realms"],
+    "universes": [
+      "Royal Realms"
+    ],
     "work": {
       "name": "The Shattered Crown",
-      "id": "2869a02b-55ae-40b3-abed-946b8799f52a"
+      "id": "f60a8928-d5e5-4da9-a6d5-28c9b4969b5b"
     }
   },
   {
@@ -9286,16 +10392,25 @@
     "isbn": "9569532184947",
     "format": "Paperback",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9359,16 +10474,25 @@
     "isbn": "9569532184947",
     "format": "Hardcover",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9432,16 +10556,25 @@
     "isbn": "9569532184947",
     "format": "E-book",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9505,16 +10638,25 @@
     "isbn": "9569532184947",
     "format": "Audiobook",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9578,16 +10720,25 @@
     "isbn": "9569532184947",
     "format": "Paperback",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9651,16 +10802,25 @@
     "isbn": "9569532184947",
     "format": "Hardcover",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9724,16 +10884,25 @@
     "isbn": "9569532184947",
     "format": "E-book",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9797,16 +10966,25 @@
     "isbn": "9569532184947",
     "format": "Audiobook",
     "series": {
-      "name": "Deep Sea Adventures"
+      "name": "Deep Sea Adventures",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Mystery", "Adventure", "Young Adult"]
+      "primary": [
+        "Below the Surface"
+      ],
+      "secondary": [
+        "Mystery",
+        "Adventure",
+        "Young Adult"
+      ]
     },
-    "universes": ["Oceanic World"],
+    "universes": [
+      "Oceanic World"
+    ],
     "work": {
       "name": "Secrets of the Abyss",
-      "id": "442133d2-2e47-4252-a828-b0df568f65e9"
+      "id": "e5718e31-d377-4798-b3b5-dc050454fe4d"
     }
   },
   {
@@ -9870,16 +11048,25 @@
     "isbn": "0048395749273",
     "format": "Paperback",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Lost",
-      "id": "b43e3637-1e9b-4b93-80ef-7faf3e990428"
+      "id": "2bd9ca1b-6d65-42b3-b39f-bbcee8ee611a"
     }
   },
   {
@@ -9943,16 +11130,25 @@
     "isbn": "0048395749273",
     "format": "Hardcover",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Lost",
-      "id": "b43e3637-1e9b-4b93-80ef-7faf3e990428"
+      "id": "2bd9ca1b-6d65-42b3-b39f-bbcee8ee611a"
     }
   },
   {
@@ -10016,16 +11212,25 @@
     "isbn": "0048395749273",
     "format": "E-book",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Lost",
-      "id": "b43e3637-1e9b-4b93-80ef-7faf3e990428"
+      "id": "2bd9ca1b-6d65-42b3-b39f-bbcee8ee611a"
     }
   },
   {
@@ -10089,16 +11294,25 @@
     "isbn": "0048395749273",
     "format": "Paperback",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Lost",
-      "id": "b43e3637-1e9b-4b93-80ef-7faf3e990428"
+      "id": "2bd9ca1b-6d65-42b3-b39f-bbcee8ee611a"
     }
   },
   {
@@ -10162,16 +11376,25 @@
     "isbn": "0048395749273",
     "format": "Hardcover",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Lost",
-      "id": "b43e3637-1e9b-4b93-80ef-7faf3e990428"
+      "id": "2bd9ca1b-6d65-42b3-b39f-bbcee8ee611a"
     }
   },
   {
@@ -10235,16 +11458,25 @@
     "isbn": "0048395749273",
     "format": "E-book",
     "series": {
-      "name": "Ancient Lore"
+      "name": "Ancient Lore",
+      "part": 2
     },
     "classifications": {
-      "primary": [],
-      "secondary": ["Fantasy", "Epic", "Adult"]
+      "primary": [
+        "Mythology"
+      ],
+      "secondary": [
+        "Fantasy",
+        "Epic",
+        "Adult"
+      ]
     },
-    "universes": ["Eternal Lands"],
+    "universes": [
+      "Eternal Lands"
+    ],
     "work": {
       "name": "Legends of the Lost",
-      "id": "b43e3637-1e9b-4b93-80ef-7faf3e990428"
+      "id": "2bd9ca1b-6d65-42b3-b39f-bbcee8ee611a"
     }
   }
 ]

@@ -2,9 +2,9 @@
   {
     "type": "book",
     "title": "The Silent Echo",
-    "sku": "P43725136",
+    "sku": "P98084780",
     "price": {
-      "amount": 24.6,
+      "amount": 18.33,
       "currency": "USD"
     },
     "people": {
@@ -60,16 +60,17 @@
     "isbn": "4141449879722",
     "format": "Paperback",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -133,16 +134,17 @@
     "isbn": "4141449879722",
     "format": "Hardcover",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -206,16 +208,17 @@
     "isbn": "4141449879722",
     "format": "E-book",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -279,16 +282,17 @@
     "isbn": "4141449879722",
     "format": "Audiobook",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -352,16 +356,17 @@
     "isbn": "4141449879722",
     "format": "Paperback",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -425,16 +430,17 @@
     "isbn": "4141449879722",
     "format": "Hardcover",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -498,16 +504,17 @@
     "isbn": "4141449879722",
     "format": "E-book",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
     }
   },
   {
@@ -571,16 +578,461 @@
     "isbn": "4141449879722",
     "format": "Audiobook",
     "series": {
-      "name": "Echoes Series"
+      "name": "Echoes Series",
+      "part": 1
     },
     "classifications": {
-      "primary": [],
+      "primary": ["Noire"],
       "secondary": ["Mystery", "Thriller", "Adult"]
     },
     "universes": ["Mystic World"],
     "work": {
       "name": "The Silent Echo",
-      "id": "a61f52cc-0d08-4542-ba43-da5d52224538"
+      "id": "c73d46fb-3b18-4600-ab0b-215c2c3975f7"
+    }
+  },
+  {
+    "type": "book",
+    "title": "The Last Horizon",
+    "sku": "P06856203",
+    "price": {
+      "amount": 16.38,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Alex Green",
+          "isni": "3487176784197292"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "Sophia White",
+          "isni": "1533012711430821"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "David Clark",
+          "isni": "0644606098528937"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 472,
+    "dimensions": {
+      "height": 8.8,
+      "width": 4.3,
+      "depth": 1.7,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.9,
+      "unit": "lb"
+    },
+    "isbn": "0734148225148",
+    "format": "Paperback",
+    "series": {
+      "name": "Horizon Saga",
+      "part": 1
+    },
+    "classifications": {
+      "primary": ["Romance"],
+      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+    },
+    "universes": ["Galactic Realm"],
+    "work": {
+      "name": "The Last Horizon",
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
+    }
+  },
+  {
+    "type": "book",
+    "title": "The Last Horizon",
+    "sku": "P69127822",
+    "price": {
+      "amount": 20.24,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Alex Green",
+          "isni": "3487176784197292"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "Sophia White",
+          "isni": "1533012711430821"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "David Clark",
+          "isni": "0644606098528937"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 472,
+    "dimensions": {
+      "height": 8.8,
+      "width": 4.3,
+      "depth": 1.7,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.9,
+      "unit": "lb"
+    },
+    "isbn": "0734148225148",
+    "format": "Hardcover",
+    "series": {
+      "name": "Horizon Saga",
+      "part": 1
+    },
+    "classifications": {
+      "primary": ["Romance"],
+      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+    },
+    "universes": ["Galactic Realm"],
+    "work": {
+      "name": "The Last Horizon",
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
+    }
+  },
+  {
+    "type": "book",
+    "title": "The Last Horizon",
+    "sku": "P69127822",
+    "price": {
+      "amount": 20.24,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Alex Green",
+          "isni": "3487176784197292"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "Sophia White",
+          "isni": "1533012711430821"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "David Clark",
+          "isni": "0644606098528937"
+        }
+      ]
+    },
+    "language": {
+      "code": "en",
+      "name": "English",
+      "original": true
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 472,
+    "dimensions": {
+      "height": 8.8,
+      "width": 4.3,
+      "depth": 1.7,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.9,
+      "unit": "lb"
+    },
+    "isbn": "0734148225148",
+    "format": "E-book",
+    "series": {
+      "name": "Horizon Saga",
+      "part": 1
+    },
+    "classifications": {
+      "primary": ["Romance"],
+      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+    },
+    "universes": ["Galactic Realm"],
+    "work": {
+      "name": "The Last Horizon",
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
+    }
+  },
+  {
+    "type": "book",
+    "title": "Der Letzte Horizont",
+    "sku": "P69127822",
+    "price": {
+      "amount": 20.24,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Alex Green",
+          "isni": "3487176784197292"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "Sophia White",
+          "isni": "1533012711430821"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "David Clark",
+          "isni": "0644606098528937"
+        }
+      ]
+    },
+    "language": {
+      "code": "ge",
+      "name": "German",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 472,
+    "dimensions": {
+      "height": 8.8,
+      "width": 4.3,
+      "depth": 1.7,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.9,
+      "unit": "lb"
+    },
+    "isbn": "0734148225148",
+    "format": "Paperback",
+    "series": {
+      "name": "Horizon Saga",
+      "part": 1
+    },
+    "classifications": {
+      "primary": ["Romance"],
+      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+    },
+    "universes": ["Galactic Realm"],
+    "work": {
+      "name": "The Last Horizon",
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
+    }
+  },
+  {
+    "type": "book",
+    "title": "Der Letzte Horizont",
+    "sku": "P69127822",
+    "price": {
+      "amount": 20.24,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Alex Green",
+          "isni": "3487176784197292"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "Sophia White",
+          "isni": "1533012711430821"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "David Clark",
+          "isni": "0644606098528937"
+        }
+      ]
+    },
+    "language": {
+      "code": "ge",
+      "name": "German",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 472,
+    "dimensions": {
+      "height": 8.8,
+      "width": 4.3,
+      "depth": 1.7,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.9,
+      "unit": "lb"
+    },
+    "isbn": "0734148225148",
+    "format": "Hardcover",
+    "series": {
+      "name": "Horizon Saga",
+      "part": 1
+    },
+    "classifications": {
+      "primary": ["Romance"],
+      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+    },
+    "universes": ["Galactic Realm"],
+    "work": {
+      "name": "The Last Horizon",
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
+    }
+  },
+  {
+    "type": "book",
+    "title": "Der Letzte Horizont",
+    "sku": "P69127822",
+    "price": {
+      "amount": 20.24,
+      "currency": "USD"
+    },
+    "people": {
+      "authors": [
+        {
+          "name": "Alex Green",
+          "isni": "3487176784197292"
+        }
+      ],
+      "translators": [
+        {
+          "name": "",
+          "isni": ""
+        }
+      ],
+      "illustrators": [
+        {
+          "name": "Sophia White",
+          "isni": "1533012711430821"
+        }
+      ],
+      "narrators": [
+        {
+          "name": "David Clark",
+          "isni": "0644606098528937"
+        }
+      ]
+    },
+    "language": {
+      "code": "ge",
+      "name": "German",
+      "original": false
+    },
+    "publishInfo": {
+      "publisher": {
+        "name": "Fictional Publisher"
+      },
+      "published": {
+        "date": "2023-01-01"
+      }
+    },
+    "pages": 472,
+    "dimensions": {
+      "height": 8.8,
+      "width": 4.3,
+      "depth": 1.7,
+      "unit": "in"
+    },
+    "weight": {
+      "amount": 0.9,
+      "unit": "lb"
+    },
+    "isbn": "0734148225148",
+    "format": "E-book",
+    "series": {
+      "name": "Horizon Saga",
+      "part": 1
+    },
+    "classifications": {
+      "primary": ["Romance"],
+      "secondary": ["Science Fiction", "Adventure", "Young Adult"]
+    },
+    "universes": ["Galactic Realm"],
+    "work": {
+      "name": "The Last Horizon",
+      "id": "e27eaee8-de18-4dd3-a64b-239307d92e0d"
     }
   }
 ]

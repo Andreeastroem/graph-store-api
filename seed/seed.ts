@@ -60,7 +60,7 @@ import { getSeedQuery } from "./seedQuery";
     await Promise.all(result).then((res) => {
       if (res.length > 0) {
         res.forEach((r) => {
-          console.log("Query result: ", r);
+          // console.log("Query result: ", r);
         });
       }
     });
